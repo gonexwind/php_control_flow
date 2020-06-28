@@ -5,7 +5,7 @@
 [Open Web](https://gonexwind.github.io/php_control_flow)
 
 <p float="left">
-  <img src="screenshot/home.png" width="50%" />
+  <img src="screenshot/home.png" />
 </p>
 
 ## What I Used
