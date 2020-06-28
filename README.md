@@ -2,9 +2,7 @@
 
 ## Learn Control Flow in PHP
 
-[Open Web](https://gonexwind.github.io/php_control_flow)
-
-<p float="left">
+<p>
   <img src="screenshot/home.png" />
 </p>
 
